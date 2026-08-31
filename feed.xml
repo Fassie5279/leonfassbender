@@ -3,7 +3,7 @@
     <title>Leon Fassbender</title>
     <link href="https://leonfassbender.com/feed.xml" rel="self" />
     <link href="https://leonfassbender.com" />
-    <updated>2026-08-31T11:22:32+02:00</updated>
+    <updated>2026-08-31T11:25:10+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://leonfassbender.com/photos-from-valle-dei-templi-agrigento/"/>
         <id>https://leonfassbender.com/photos-from-valle-dei-templi-agrigento/</id>
         <media:content url="https://leonfassbender.com/media/posts/15/4.jpeg" medium="image" />
+            <category term="Stories"/>
 
         <updated>2026-08-31T10:57:55+02:00</updated>
             <summary type="html">
