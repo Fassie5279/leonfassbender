@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://leonfassbender.com/a-day-at-sea-2/",
+            "url": "https://leonfassbender.com/a-day-at-sea-2/",
+            "title": "A Day at Sea",
+            "author": {
+                "name": "Leon Fassbender"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-31T19:32:22+02:00",
+            "date_modified": "2026-08-31T19:32:22+02:00"
+        },
+        {
             "id": "https://leonfassbender.com/photos-from-valle-dei-templi-agrigento/",
             "url": "https://leonfassbender.com/photos-from-valle-dei-templi-agrigento/",
             "title": "Photos from Valle dei Templi, Agrigento",

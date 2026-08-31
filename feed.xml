@@ -3,12 +3,24 @@
     <title>Leon Fassbender</title>
     <link href="https://leonfassbender.com/feed.xml" rel="self" />
     <link href="https://leonfassbender.com" />
-    <updated>2026-08-31T11:25:10+02:00</updated>
+    <updated>2026-08-31T19:32:22+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://leonfassbender.com</id>
 
+    <entry>
+        <title>A Day at Sea</title>
+        <author>
+            <name>Leon Fassbender</name>
+        </author>
+        <link href="https://leonfassbender.com/a-day-at-sea-2/"/>
+        <id>https://leonfassbender.com/a-day-at-sea-2/</id>
+
+        <updated>2026-08-31T19:32:22+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Photos from Valle dei Templi, Agrigento</title>
         <author>
