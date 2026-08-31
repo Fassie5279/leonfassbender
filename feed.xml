@@ -3,7 +3,7 @@
     <title>Leon Fassbender</title>
     <link href="https://leonfassbender.com/feed.xml" rel="self" />
     <link href="https://leonfassbender.com" />
-    <updated>2026-08-31T19:32:22+02:00</updated>
+    <updated>2026-08-31T19:35:23+02:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://leonfassbender.com/a-day-at-sea-2/"/>
         <id>https://leonfassbender.com/a-day-at-sea-2/</id>
+            <category term="Stories"/>
 
         <updated>2026-08-31T19:32:22+02:00</updated>
             <summary></summary>
