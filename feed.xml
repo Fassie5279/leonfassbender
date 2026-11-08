@@ -3,12 +3,49 @@
     <title>Leon Fassbender</title>
     <link href="https://leonfassbender.com/feed.xml" rel="self" />
     <link href="https://leonfassbender.com" />
-    <updated>2026-11-07T18:41:50+01:00</updated>
+    <updated>2026-11-08T14:32:40+01:00</updated>
     <author>
         <name>Leon Fassbender</name>
     </author>
     <id>https://leonfassbender.com</id>
 
+    <entry>
+        <title>The Best Years - A poem (about time as a memory)</title>
+        <author>
+            <name>Leon Fassbender</name>
+        </author>
+        <link href="https://leonfassbender.com/the-best-years/"/>
+        <id>https://leonfassbender.com/the-best-years/</id>
+        <media:content url="https://leonfassbender.com/media/posts/23/bestyears.webp" medium="image" />
+            <category term="Stories"/>
+
+        <updated>2026-11-08T14:13:46+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://leonfassbender.com/media/posts/23/bestyears.webp" alt="" />
+                    The Best Years The best years come like a sigh of wind with blossom leaves, that blanket my street. Like an October table with candlelight that warms my soul. Like the look of the good, which looks at me, in love. With the bridge and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://leonfassbender.com/media/posts/23/bestyears.webp" class="type:primaryImage" alt="" /></p>
+                <div id="model-response-message-contentr_83de9b55971c7a2b" class="markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color" dir="ltr" aria-busy="false" aria-live="polite">
+<blockquote>
+<div dir="ltr">The Best Years </div>
+<div dir="ltr"> </div>
+<div class="first-token" dir="ltr"><span class="">The best years come like a sigh of wind with blossom leaves, </span><span style="font-size: inherit;">that blanket my street.</span></div>
+<div dir="ltr"><br>Like an October table with candlelight that warms my soul.</div>
+<div dir="ltr"><br>Like the look of the good, which looks at me, in love.<br><br>With the bridge and the city on the other side, where lights glow.</div>
+<div dir="ltr"><br>On the photograph of everything that must stay.</div>
+<div dir="ltr"><br>Like the nights of Osaka. <br>Or the attic. <br>The room of my heart that races like a bullet train.<br>Definite, on time.</div>
+<div dir="ltr"> </div>
+<div dir="ltr">All the time knowing—<br>The best years.<br><br></div>
+<div dir="ltr">They went unnoticed.</div>
+</blockquote>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grounded - A poem (about time as a fixed anchor)</title>
         <author>

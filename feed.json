@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://leonfassbender.com/the-best-years/",
+            "url": "https://leonfassbender.com/the-best-years/",
+            "title": "The Best Years - A poem (about time as a memory)",
+            "summary": "The Best Years The best years come like a sigh of wind with blossom leaves, that blanket my street. Like an October table with candlelight that warms my soul. Like the look of the good, which looks at me, in love. With the bridge and&hellip;",
+            "content_html": "<div id=\"model-response-message-contentr_83de9b55971c7a2b\" class=\"markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color\" dir=\"ltr\" aria-busy=\"false\" aria-live=\"polite\">\n<blockquote>\n<div dir=\"ltr\">The Best Years </div>\n<div dir=\"ltr\"> </div>\n<div class=\"first-token\" dir=\"ltr\"><span class=\"\">The best years come like a sigh of wind with blossom leaves, </span><span style=\"font-size: inherit;\">that blanket my street.</span></div>\n<div dir=\"ltr\"><br>Like an October table with candlelight that warms my soul.</div>\n<div dir=\"ltr\"><br>Like the look of the good, which looks at me, in love.<br><br>With the bridge and the city on the other side, where lights glow.</div>\n<div dir=\"ltr\"><br>On the photograph of everything that must stay.</div>\n<div dir=\"ltr\"><br>Like the nights of Osaka. <br>Or the attic. <br>The room of my heart that races like a bullet train.<br>Definite, on time.</div>\n<div dir=\"ltr\"> </div>\n<div dir=\"ltr\">All the time knowing—<br>The best years.<br><br></div>\n<div dir=\"ltr\">They went unnoticed.</div>\n</blockquote>\n</div>",
+            "image": "https://leonfassbender.com/media/posts/23/bestyears.webp",
+            "author": {
+                "name": "Leon Fassbender"
+            },
+            "tags": [
+                   "Stories"
+            ],
+            "date_published": "2026-11-08T14:13:46+01:00",
+            "date_modified": "2026-11-08T14:32:40+01:00"
+        },
+        {
             "id": "https://leonfassbender.com/grounded-a-poem/",
             "url": "https://leonfassbender.com/grounded-a-poem/",
             "title": "Grounded - A poem (about time as a fixed anchor)",
